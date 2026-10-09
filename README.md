@@ -1,4 +1,6 @@
-[README.md](https://github.com/user-attachments/files/31876045/README.md)
+[Frontend](https://food-inflation.vercel.app/) | [Live API](https://food-inflation-in-el-nino.onrender.com) |
+[API Docs](https://food-inflation-in-el-nino.onrender.com/docs)
+
 # Food Inflation Forecasting using El Niño Indices
 
 ## Project Overview
